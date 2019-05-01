@@ -1,5 +1,5 @@
 module.exports = {
-   export data in json format
+   //export data in json format
 }
        
    
